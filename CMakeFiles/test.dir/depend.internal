@@ -3,6 +3,8 @@
 
 CMakeFiles/test.dir/unit_test.cpp.o
  /home/csmajs/lim001/Lab04/base.hpp
+ /home/csmajs/lim001/Lab04/mult.hpp
+ /home/csmajs/lim001/Lab04/mult_test.hpp
  /home/csmajs/lim001/Lab04/op.hpp
  /home/csmajs/lim001/Lab04/op_test.hpp
  /home/csmajs/lim001/Lab04/unit_test.cpp
