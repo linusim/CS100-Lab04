@@ -9,8 +9,8 @@ class Op : public Base {
 
     public:
         Op(double value);
-        virtual double evaluate() { return value; }
-        virtual std::string stringify() { return ->stringify() }
+        virtual double evaluate() { return this->val; }
+        virtual std::string stringify() { return std::to_string(this->val); }
 };
 
 Op::Op(double value)

@@ -13,4 +13,4 @@ class Base {
         virtual std::string stringify() = 0;
 };
 
-endif //__BASE_HPP__
+#endif //__BASE_HPP__
