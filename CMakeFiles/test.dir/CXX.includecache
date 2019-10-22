@@ -10,7 +10,7 @@
 base.hpp
 /home/csmajs/bhuan019/CS100-Lab04/base.hpp
 string
-/home/csmajs/bhuan019/CS100-Lab04/string
+-
 
 /home/csmajs/bhuan019/CS100-Lab04/add_test.hpp
 gtest/gtest.h
@@ -34,6 +34,30 @@ gtest/gtest.h
 op.hpp
 /home/csmajs/bhuan019/CS100-Lab04/op.hpp
 
+/home/csmajs/bhuan019/CS100-Lab04/pow.hpp
+base.hpp
+/home/csmajs/bhuan019/CS100-Lab04/base.hpp
+string
+-
+
+/home/csmajs/bhuan019/CS100-Lab04/pow_test.hpp
+gtest/gtest.h
+/home/csmajs/bhuan019/CS100-Lab04/gtest/gtest.h
+pow.hpp
+/home/csmajs/bhuan019/CS100-Lab04/pow.hpp
+
+/home/csmajs/bhuan019/CS100-Lab04/sub.hpp
+base.hpp
+/home/csmajs/bhuan019/CS100-Lab04/base.hpp
+string
+-
+
+/home/csmajs/bhuan019/CS100-Lab04/sub_test.hpp
+gtest/gtest.h
+/home/csmajs/bhuan019/CS100-Lab04/gtest/gtest.h
+sub.hpp
+/home/csmajs/bhuan019/CS100-Lab04/sub.hpp
+
 /home/csmajs/bhuan019/CS100-Lab04/unit_test.cpp
 gtest/gtest.h
 /home/csmajs/bhuan019/CS100-Lab04/gtest/gtest.h
@@ -41,6 +65,10 @@ op_test.hpp
 /home/csmajs/bhuan019/CS100-Lab04/op_test.hpp
 add_test.hpp
 /home/csmajs/bhuan019/CS100-Lab04/add_test.hpp
+sub_test.hpp
+/home/csmajs/bhuan019/CS100-Lab04/sub_test.hpp
+pow_test.hpp
+/home/csmajs/bhuan019/CS100-Lab04/pow_test.hpp
 
 googletest/googletest/include/gtest/gtest-death-test.h
 gtest/internal/gtest-death-test-internal.h

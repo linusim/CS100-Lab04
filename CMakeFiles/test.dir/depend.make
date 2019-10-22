@@ -6,6 +6,10 @@ CMakeFiles/test.dir/unit_test.cpp.o: add_test.hpp
 CMakeFiles/test.dir/unit_test.cpp.o: base.hpp
 CMakeFiles/test.dir/unit_test.cpp.o: op.hpp
 CMakeFiles/test.dir/unit_test.cpp.o: op_test.hpp
+CMakeFiles/test.dir/unit_test.cpp.o: pow.hpp
+CMakeFiles/test.dir/unit_test.cpp.o: pow_test.hpp
+CMakeFiles/test.dir/unit_test.cpp.o: sub.hpp
+CMakeFiles/test.dir/unit_test.cpp.o: sub_test.hpp
 CMakeFiles/test.dir/unit_test.cpp.o: unit_test.cpp
 CMakeFiles/test.dir/unit_test.cpp.o: googletest/googletest/include/gtest/gtest-death-test.h
 CMakeFiles/test.dir/unit_test.cpp.o: googletest/googletest/include/gtest/gtest-matchers.h
