@@ -10,6 +10,18 @@
 string
 -
 
+/home/csmajs/lim001/Lab04/div.hpp
+string
+-
+base.hpp
+/home/csmajs/lim001/Lab04/base.hpp
+
+/home/csmajs/lim001/Lab04/div_test.hpp
+gtest/gtest.h
+/home/csmajs/lim001/Lab04/gtest/gtest.h
+div.hpp
+/home/csmajs/lim001/Lab04/div.hpp
+
 /home/csmajs/lim001/Lab04/mult.hpp
 string
 -
@@ -41,6 +53,8 @@ op_test.hpp
 /home/csmajs/lim001/Lab04/op_test.hpp
 mult_test.hpp
 /home/csmajs/lim001/Lab04/mult_test.hpp
+div_test.hpp
+/home/csmajs/lim001/Lab04/div_test.hpp
 
 googletest/googletest/include/gtest/gtest-death-test.h
 gtest/internal/gtest-death-test-internal.h
