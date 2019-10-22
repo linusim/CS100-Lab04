@@ -2,6 +2,6 @@ unit_test
 test
 
 CMakeCache.txt
-CMkaeFiles/
+CMakeFiles/
 cmake_install.cmake
 Makefile
