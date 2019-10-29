@@ -2,6 +2,7 @@
 #define __POW_HPP__
 #include "base.hpp"
 #include <string>
+#include<bits/stdc++.h> 
 
 class Pow: public Base{
   private:
@@ -16,14 +17,15 @@ class Pow: public Base{
 };
 
 double Pow::evaluate(){
-    double power = right->evaluate();
-    double base = left->evaluate();
+    double power = this->right->evaluate();
+    double base = this->left->evaluate();
     if(power == 0){
         return 1;
     }
-    for(int i = 1; i < power; i++){
+    power = pow(base,power);
+    /*for(int i = 1; i < power; i++){
         power = power * power;
-    }
+    }*/
     return power;
 }
 

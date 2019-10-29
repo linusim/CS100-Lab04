@@ -39,6 +39,8 @@ base.hpp
 /home/csmajs/bhuan019/CS100-Lab04/base.hpp
 string
 -
+bits/stdc++.h
+-
 
 /home/csmajs/bhuan019/CS100-Lab04/pow_test.hpp
 gtest/gtest.h
